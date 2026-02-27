@@ -1,0 +1,17 @@
+# Maven
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.eclipse
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config locale (contient les credentials DB)
+securenet.properties
