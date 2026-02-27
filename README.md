@@ -1,4 +1,4 @@
-# 🔐 IoT SecureNet Platform v1.0
+# 🔐 IoT SecureNet Platform v3.0
 
 Plateforme de supervision et sécurité pour réseaux IoT, avec Digital Twin interactif.
 
